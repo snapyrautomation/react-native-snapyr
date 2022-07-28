@@ -1,6 +1,6 @@
 {
-  "name": "react-native-snapyr",
-  "version": "0.1.0",
+  "name": "@snapyr/react-native-snapyr",
+  "version": "0.1.0-alpha1",
   "description": "Snapyr",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -36,13 +36,12 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/shangwangzhang/react-native-snapyr",
-  "author": "ShangWang Zhang <shangwangzhang@gmail.com> (https://github.com/shangwangzhang)",
+  "repository": "https://github.com/snapyrautomation/react-native-snapyr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shangwangzhang/react-native-snapyr/issues"
+    "url": "https://github.com/snapyrautomation/react-native-snapyr/issues"
   },
-  "homepage": "https://github.com/shangwangzhang/react-native-snapyr#readme",
+  "homepage": "https://github.com/snapyrautomation/react-native-snapyr#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
